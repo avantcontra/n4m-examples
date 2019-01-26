@@ -1,3 +1,9 @@
+## It has split to its own repo:
+
+https://github.com/avantcontra/n4m-qrcode-generator
+
+-------
+-----
 # n4m-qrcode-generator
 
 A QRCode generator allow you to generate a QRCode image from some text, web URL, etc.
