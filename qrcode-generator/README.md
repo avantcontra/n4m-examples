@@ -1,4 +1,4 @@
-## It has split to its own repo:
+# It has been splitted to its own repo:
 
 https://github.com/avantcontra/n4m-qrcode-generator
 
